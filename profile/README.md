@@ -5,3 +5,7 @@
     <strong>The best platform to write and share markdown</strong>
   </a>
 </p>
+<br>
+<p align="center">
+  <a href="https://hedgedoc.org">Website</a> &middot; <a href="https://community.hedgedoc.org">Community forum</a> &middot; <a href="https://docs.hedgedoc.org/">Docs</a> &middot; <a href="https://hedgedoc.org/demo/">Demo</a>
+</p>
